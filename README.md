@@ -1,6 +1,5 @@
-# AmbedkarGPT-Intern-Task
-
-**Kalpit Pvt Ltd — AI Intern Hiring: Phase 1**  
+# AmbedkarGPT
+  
 A simple command-line Q&A system that ingests a short speech by Dr. B.R. Ambedkar and answers questions based solely on that content.
 
 ## What this project does
@@ -19,6 +18,6 @@ A simple command-line Q&A system that ingests a short speech by Dr. B.R. Ambedka
 ## Setup (step-by-step)
 1. Clone the repo:
    ```bash
-   git clone <your-repo-url>
-   cd AmbedkarGPT-Intern-Task
+   git clone <repo-url>
+   cd AmbedkarGPT
 
